@@ -4,8 +4,6 @@ Welcome to the Movies website! This web application allows users to Discover the
 
 ![Img3](https://github.com/saisanthoshbussa/Movies-Website/assets/118352633/3c39ec8a-cfb6-4aed-9aef-a3d7d230c011)
 
-![Img2](https://github.com/saisanthoshbussa/Movies-Website/assets/118352633/6d68a1e3-95f5-4d6b-80ed-78ac92bce178)
-
 
 ## Table of Contents
 
@@ -25,6 +23,10 @@ Welcome to the Movies website! This web application allows users to Discover the
 - "Show more" button to load additional movies and TV shows.
 - Menu button for popular movies, new movies, and upcoming movies on smaller window sizes.
 - About Us, Contact, and Disclaimer pages for additional information and communication.
+
+
+![Img2](https://github.com/saisanthoshbussa/Movies-Website/assets/118352633/6d68a1e3-95f5-4d6b-80ed-78ac92bce178)
+
 
 ## Technologies Used
 
