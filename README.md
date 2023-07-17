@@ -32,7 +32,7 @@ Welcome to the Movies website! This web application allows users to Discover the
 1. Clone the repository:
 
 ```javascript
-`git clone https://github.com/your-username/movie-listener.git`;
+git clone https://github.com/your-username/movie-listener.git
 ```
 
 2. Open the project in your preferred code editor.
