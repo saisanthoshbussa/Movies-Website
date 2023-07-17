@@ -1,7 +1,11 @@
 # Movies-Website
 
 Welcome to the Movies website! This web application allows users to Discover the latest releases and explore an extensive collection of movies and TV shows from various genes, eras and countries, all conveniently organized for easy browsing.
-![Img1](https://github.com/saisanthoshbussa/Movies-Website/assets/118352633/8f9a939a-30c3-4576-ae41-df7e018aae5a)
+
+![Img3](https://github.com/saisanthoshbussa/Movies-Website/assets/118352633/3c39ec8a-cfb6-4aed-9aef-a3d7d230c011)
+
+![Img2](https://github.com/saisanthoshbussa/Movies-Website/assets/118352633/6d68a1e3-95f5-4d6b-80ed-78ac92bce178)
+
 
 ## Table of Contents
 
