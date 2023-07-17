@@ -9,16 +9,13 @@ Welcome to the Movies website! This web application allows users to Discover the
 - [Setup](#setup)
 - [API Integration](#api-integration)
 - [Pages](#pages)
-- [License](#license)
 
 ## Features
 
 - Responsive design that adapts to different screen sizes and orientations.
 - User-friendly interface with intuitive navigation.
-
 - Search for movies and TV shows by title.
 - View information about each movie or TV show, including ratings, release date.
-- Responsive design that adapts to different screen sizes and orientations.
 - Buttons for popular movies, new movies, and upcoming movies to quickly access the corresponding categories.
 - "Show more" button to load additional movies and TV shows.
 - Menu button for popular movies, new movies, and upcoming movies on smaller window sizes.
